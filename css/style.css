@@ -1,18 +1,42 @@
   body {
-    background-color: #F6F5F5;
+    background-color: #F5F5F5;
+    color: #40514E;
   }
   hr {
     /* background-color: white; */
     /* border: none; */
-    border-color: black;
-    border-style: dotted none none none;
-    border-width: 5px;
+    border-color: #40514E;
+    /* border-style: dotted none none none; */
+    border-width: 1px;
     height: 0;
-    width: 5%;
+    width: 100%;
   }
   h1 {
-    color: black;
+    color: #40514E;
   }
   h3 {
-    color: black;
+    color: #30E3CA;
+  }
+  .work {
+    max-width: 60%;
+    padding: 10px;
+
+  }
+  .colRole {
+    text-align: left;
+    width: 25%;
+  }
+  .colYears {
+    text-align: left;
+    width: 15%;
+  }
+  .colResponsibilities {
+    text-align: left;
+    width: 60%;
+  }
+  .skills {
+    padding: 10px;
+  }
+  .tdYears {
+    vertical-align: top;
   }
