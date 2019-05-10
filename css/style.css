@@ -17,6 +17,12 @@
   h3 {
     color: #30E3CA;
   }
+  a:hover {
+    color: orange;
+  }
+  .profile-picture {
+    border-radius: 100%;
+  }
   .work {
     max-width: 60%;
     padding: 10px;
